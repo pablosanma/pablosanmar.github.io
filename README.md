@@ -1,91 +1,56 @@
-# cmi22
+# Pablo José Sánchez Martín
 
-## (Nombre del proyecto)
+## (Trayecto Infierno)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Trayecto Inferno
 
-**Web:**   (url github.io)
+**Web:**   Hippani
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Pablo José Sánchez Martín
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca hacer un breve recorrido por los círculos del infierno, en base a La Divina Comedia de Dante, escritor italiano. 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Novela / juego / storytelling.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Internet Explorer
 
 **Tamaño proyecto:** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 09/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+En principio encontramos la intro, una escena de infierno y un pequeño demonio nos presenta las instrucciones. Vemos un botón de configuración, donde podemos ver un breve tutorial del juego, el volumen y las posibles canciones. El viaje en sí, son tres escenas presentadas por demonios,  que nos explican los tres primeros círculos del infierno.
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
-### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
-
-
-# 3. Metodología
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque nos pone en contexto a partir de una obra clásica que poca gente conoce el trasfondo, por así decirlo es una forma más rápida e interactiva de conocer la historia.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a menos de 15 años,
 
 
 
@@ -93,25 +58,17 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
+Partiendo de la base de que soy nulo ante este tipo de trabajo, puesto que no me entiendo demasiado bien con las tecnologías he usado una serie de animaciones y pequeñas programaciones que den un poco de interacción al juego. 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+Lo que más me ha costado de este proyecto ha sido entender los códigos que teníamos que aplicar al programa para que haga diferentes funciones, dado que, como he dicho antes, me cuesta mucho lo que entorna al campo de los ordenadores...etc. Pero dentro de lo que cabe, creo que he sabido desenvolverme bien.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Sinceramente me hubiese gustado sacarle mucho más jugo a mi propuesta porque he tenido que hacerlo muy básico, y me hubiese gustado saber enfocarlo como mi idea principal, que era como una especie de atracción de feria, pero también ha supuesto un trabajo adaptar este trabajo a mis conocimientos en este tipo de ámbito.
 
 
 
@@ -123,23 +80,10 @@ Este  proyecto es interesante porque ...
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+La Divina Comedia, Dante Alighieri
 
-**Recursos y materiales audiovisuales:**
-
-* Musica:  
-* Imágenes:  
-* Tipografía
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
 
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2020
